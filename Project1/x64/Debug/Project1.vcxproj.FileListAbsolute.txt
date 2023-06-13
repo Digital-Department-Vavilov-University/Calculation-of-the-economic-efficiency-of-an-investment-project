@@ -1,0 +1,7 @@
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.MainForm.resources
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.TitlePage.resources
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.SecondPage.resources
+C:\Users\Алексей\source\repos\EconomicEfficiency\Project1\Project1\x64\Debug\Project1.CalcPage.resources
